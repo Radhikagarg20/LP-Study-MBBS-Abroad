@@ -1,4 +1,4 @@
-# 🌍 Study MBBS Abroad - Landing Page  
+# Study MBBS Abroad - Landing Page  
 
 ## 📌 Overview  
 The **Study MBBS Abroad** landing page is a **modern, responsive, and high-performance** website designed to help students explore international MBBS opportunities. It provides:  
