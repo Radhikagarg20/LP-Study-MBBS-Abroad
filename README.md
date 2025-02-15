@@ -25,17 +25,14 @@ The **Study MBBS Abroad** landing page is a **modern, responsive, and high-perfo
 
 ---
 
+
+## 📎 Live Demo  
+🔗 [**View Live Project**](https://calm-praline-9094dc.netlify.app/)  
+
+
 ## ⚡ Setup & Installation  
 
 ### 📥 Clone the Repository  
 ```bash
 git clone https://github.com/yourusername/mbbs-abroad-landing.git  
 cd mbbs-abroad-landing  
-
----
-
-## 📎 Live Demo  
-🔗 [**View Live Project**](https://calm-praline-9094dc.netlify.app/)  
-
-## 📩 Contact  
-For any inquiries or collaboration opportunities, reach out at **radhikagarg104@gmail.com**  
