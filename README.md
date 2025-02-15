@@ -25,10 +25,10 @@ The **Study MBBS Abroad** landing page is a **modern, responsive, and high-perfo
 
 ---
 
-
 ## 📎 Live Demo  
 🔗 [**View Live Project**](https://calm-praline-9094dc.netlify.app/)  
 
+---
 
 ## ⚡ Setup & Installation  
 
