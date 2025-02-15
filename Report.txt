@@ -1,10 +1,12 @@
-Study MBBS Abroad Landing Page - Development Report
+##Study MBBS Abroad Landing Page - Development Report
 
-Overview
+#Overview
 
-The "Study MBBS Abroad" landing page is a fully responsive, modern, and optimized front-end project designed to help students explore MBBS opportunities abroad. It features a structured layout, lead generation form, SEO optimizations, and performance tracking integrations. The project was developed using HTML, Tailwind CSS, and JavaScript, ensuring an engaging user experience.
+The "Study MBBS Abroad" landing page is a fully responsive, modern, and optimized front-end project designed to help students explore MBBS opportunities abroad. 
+It features a structured layout, lead generation form, SEO optimizations, and performance tracking integrations. The project was developed using HTML, Tailwind CSS, 
+and JavaScript, ensuring an engaging user experience.
 
-Design & UI/UX Approach
+#Design & UI/UX Approach
 
 1. Visual Design
 
@@ -42,7 +44,7 @@ Lead Generation Form: Captures user data (Name, Email, Phone, Country Preference
 
 Call-to-Action (CTA): Encourages users to apply or get more details.
 
-Development Process
+#Development Process
 
 1. Technologies Used
 
@@ -110,7 +112,7 @@ Issue: Ensuring fast loading speed.
 
 Solution: Optimized images, minified scripts, and leveraged caching.
 
-Deployment & Hosting
+#Deployment & Hosting
 
 GitHub: Version control and collaboration.
 
@@ -118,7 +120,6 @@ Netlify/Vercel: Hosting platform with live demo.
 
 CI/CD Integration: Ensured smooth deployment updates.
 
-Conclusion
+#Conclusion
 
 The "Study MBBS Abroad" landing page successfully combines modern UI/UX principles with efficient front-end development techniques. The page is fully optimized for SEO, responsive across devices, and integrates performance tracking to enhance user engagement. This project serves as an excellent example of scalable and high-performance web development using Tailwind CSS and JavaScript.
-
